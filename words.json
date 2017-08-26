@@ -219,5 +219,21 @@
         "id": 1503758053116,
         "spanish": "cangrejos",
         "english": "crabs"
+    }, {
+        "id": 1503758451627,
+        "spanish": "cuchillo",
+        "english": "knife"
+    }, {
+        "id": 1503758451698,
+        "spanish": "cuna",
+        "english": "crib"
+    }, {
+        "id": 1503758451769,
+        "spanish": "espejo",
+        "english": "mirror"
+    }, {
+        "id": 1503758451841,
+        "spanish": "esponja",
+        "english": "sponge"
     }]
 }
