@@ -3,8 +3,8 @@
 <div class="container">
   <div class="jumbotron">
     <h1>Practice</h1>
-    <p class="lead">yeah!</p>
+    <p class="lead">{{randoWord?.spanish}}</p>
     <input type="text" class="form-control" />
-    <a class="btn btn-lg btn-primary" role="button">submit</a>
+    <a class="btn btn-lg btn-primary" (click)="setRandomWord()" role="button">submit</a>
   </div>
 </div>
