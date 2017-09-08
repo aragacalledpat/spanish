@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
 import { Http } from '@angular/http';
-import { Observable }     from 'rxjs/Observable';
+import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map';
-import * as _ from "underscore";
+import * as _ from 'underscore';
 
 @Component({
   selector: 'app-root',
@@ -13,35 +13,36 @@ import * as _ from "underscore";
 
 export class AppComponent {
   title = 'app';
-  words:Word[];
-  randoWord:Word;
+  words: Word[];
+  randoWord: Word;
 
-  constructor(private http: Http)
-  {
-    this.loadVocab().subscribe(data => 
-      {
+  constructor(private http: Http) {
+    this.loadVocab().subscribe(data => {
         this.words = data;
         this.setRandomWord();
-      }, 
-      error => console.log(error))
+      },
+      error => console.log(error));
   }
 
-  loadVocab() :Observable<Word[]>
-  {
+  loadVocab(): Observable<Word[]> {
     return this.http
     .get(`./assets/words.json`)
-    .map(response => response.json().words)
+    .map(response => response.json().words);
   }
 
-  setRandomWord()
-  {
+  setRandomWord() {
     this.randoWord = _.sample(this.words);
     console.log(this.randoWord);
+  }
+
+  check(guess: string) {
+    alert(guess);
+    alert(this.randoWord.english);
   }
 }
 
 class Word {
-  id:string;
-  spanish:string;
-  english:string;
+  id: string;
+  spanish: string;
+  english: string;
 }

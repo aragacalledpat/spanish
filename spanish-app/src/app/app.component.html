@@ -1,10 +1,21 @@
 <!--The content below is only a placeholder and can be replaced.-->
 
 <div class="container">
-  <div class="jumbotron">
-    <h1>Practice</h1>
-    <p class="lead">{{randoWord?.spanish}}</p>
-    <input type="text" class="form-control" />
-    <a class="btn btn-lg btn-primary" (click)="setRandomWord()" role="button">submit</a>
+  <h1>Practice</h1>
+  <div class="row well"> 
+    <div class="col-4">
+        <p class="lead">{{randoWord?.spanish}}</p>
+    </div>
+    <div class="col-md-8">
+        <input #box sclass="form-control" type="text" />
+    </div>
+  </div>
+  <div class="row"> 
+      <div class="col-4">
+          <a class="btn btn-primary" (click)="setRandomWord()" role="button">Regenerate</a>
+      </div>
+      <div class="col-4">
+          <a class="btn btn-info" (click)="check(box.value)" role="button">Check</a>
+      </div>
   </div>
 </div>
