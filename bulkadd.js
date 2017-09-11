@@ -43,6 +43,8 @@ rd.on('close', function() {
         })
 
         json = JSON.stringify(db); //convert it back to json
+
+        console.log(db.words.length)
         fs.writeFile('current.json', json, 'utf8', function(){console.log("WRITE SUCCESS")}); // write it back 
     }});
   });
