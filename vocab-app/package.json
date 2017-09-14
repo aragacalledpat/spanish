@@ -10,6 +10,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "run_build" : "node build/main.js"
+    "run_build" : "node build/main.js count",
+    "run_deposit" : "node build/main.js deposit"
   }
 }
