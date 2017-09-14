@@ -1,0 +1,10 @@
+{
+  "name": "andrew-vocab-app",
+  "version": "0.0.1",
+  "author": "Andrew Pappas <aragacalledpappas@gmail.com.com>",
+  "description": "a simple commandline utility for managing new vocab",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.5.2"
+  }
+}
