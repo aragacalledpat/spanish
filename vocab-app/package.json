@@ -5,6 +5,7 @@
   "description": "a simple commandline utility for managing new vocab",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^8.0.28",
     "typescript": "^2.5.2"
   }
 }
