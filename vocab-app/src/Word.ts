@@ -1,4 +1,4 @@
-class Word {
+export class Word {
     public id:number;
     public spanish:string;
     public english:string[];

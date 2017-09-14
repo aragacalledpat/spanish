@@ -1,10 +1,11 @@
 var fs = require('fs'),
          readline = require('readline');
+import { Word } from './Word';
 
-module.exports = function BulkAdd()
+module.exports = function()
 {
     var rd = readline.createInterface({
-        input: fs.createReadStream('buffer'),
+        input: fs.createReadStream('./archives/buffer'),
         console: false
     });
     
@@ -16,18 +17,16 @@ module.exports = function BulkAdd()
 
     function process_line(line) {
         var fields = line.split(','); 
-        new Word(fields[0].trim(), line.split(',').map(x => x.trim))
     
         wordsToAdd.push(
             new Word(fields[0].trim(), 
-            line.split(',').map(x => x.trim))
+            line.split(',').map(x => x.trim()))
         );
     }
 
     function write_to_database() {
         console.log('BEGIN WRITE');
-    
-        fs.readFile('current.json', 'utf8', function readFileCallback(err, data){
+        fs.readFile('./archives/current.json', 'utf8', function readFileCallback(err, data){
             if (err){
                 console.log(err);
             } else {
@@ -43,7 +42,7 @@ module.exports = function BulkAdd()
             var json = JSON.stringify(db); //convert it back to json
     
             console.log(db.words.length);
-            fs.writeFile('current.json', json, 'utf8', () => console.log("WRITE SUCCESS")); // write it back 
+            fs.writeFile('./archives/current.json', json, 'utf8', () => console.log("WRITE SUCCESS")); // write it back 
         }});
       }
 }
