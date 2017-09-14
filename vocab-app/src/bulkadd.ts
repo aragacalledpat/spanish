@@ -1,7 +1,7 @@
 var fs = require('fs'),
          readline = require('readline');
 
-export function BulkAdd()
+module.exports = function BulkAdd()
 {
     var rd = readline.createInterface({
         input: fs.createReadStream('buffer'),
