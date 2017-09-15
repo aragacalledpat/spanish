@@ -17,10 +17,11 @@ module.exports = function()
 
     function process_line(line) {
         var fields = line.split(','); 
+        var spanish = fields.shift();
     
         wordsToAdd.push(
-            new Word(fields[0].trim(), 
-            line.split(',').map(x => x.trim()))
+            new Word(spanish.trim(), 
+            fields.map(x => x.trim()))
         );
     }
 
