@@ -24,13 +24,12 @@ function mapToAnkiExports(file:String)
 
         var formatted = db.words.map(x => {
             var thing = x.spanish + "; ";
-            console.log(x.english)
-     //       x.english.forEach(element => {
-    //            thing += element + ", "
-      //      }
-       // );
-            return thing;
+            x.english.forEach(element => {
+                thing += element + ", "
+            }
+        );
+        thing = thing.substring(0, thing.length - 2) + "\n";
+        process.stdout.write(thing);
         })
-        console.log(formatted);
     }});
 }
