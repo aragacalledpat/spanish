@@ -282,7 +282,7 @@
     }, {
         "id": 1504056669533,
         "spanish": "desde",
-        "english": ["from_since"]
+        "english": ["from", "since"]
     }, {
         "id": 1504056669603,
         "spanish": "temporada",
@@ -290,7 +290,7 @@
     }, {
         "id": 1504056669674,
         "spanish": "rato",
-        "english": ["while_bit"]
+        "english": ["a while", "a bit"]
     }, {
         "id": 1504056669745,
         "spanish": "segundo",
@@ -302,7 +302,7 @@
     }, {
         "id": 1504056669887,
         "spanish": "anoche",
-        "english": ["lastNight"]
+        "english": ["last night"]
     }, {
         "id": 1504056669958,
         "spanish": "útiles",
@@ -314,7 +314,7 @@
     }, {
         "id": 1504056670099,
         "spanish": "mayor",
-        "english": ["bigger_older"]
+        "english": ["bigger","older"]
     }, {
         "id": 1504056670170,
         "spanish": "menor",
@@ -342,7 +342,7 @@
     }, {
         "id": 1504056670595,
         "spanish": "tanto",
-        "english": ["soMuch"]
+        "english": ["so much"]
     }, {
         "id": 1504056670665,
         "spanish": "reciente",
@@ -354,7 +354,7 @@
     }, {
         "id": 1504056670806,
         "spanish": "quedar",
-        "english": ["stay_remain"]
+        "english": ["to stay", "to remain"]
     }, {
         "id": 1504056670877,
         "spanish": "seguir",
@@ -362,7 +362,7 @@
     }, {
         "id": 1504056670947,
         "spanish": "llegar",
-        "english": ["arrive"]
+        "english": ["to arrive"]
     }, {
         "id": 1504056671018,
         "spanish": "suiza",
@@ -370,35 +370,35 @@
     }, {
         "id": 1504056671088,
         "spanish": "pesar",
-        "english": ["weigh"]
+        "english": ["to weigh"]
     }, {
         "id": 1504056671158,
         "spanish": "pobrar",
-        "english": ["try"]
+        "english": ["to try"]
     }, {
         "id": 1504056671229,
         "spanish": "monstrar",
-        "english": ["show"]
+        "english": ["to show"]
     }, {
         "id": 1504056671298,
         "spanish": "llevar",
-        "english": ["take"]
+        "english": ["to take"]
     }, {
         "id": 1504653331843,
         "spanish": "aparecer",
-        "english": ["appear"]
+        "english": ["to appear"]
     }, {
         "id": 1504653331915,
         "spanish": "cerrar",
-        "english": ["close"]
+        "english": ["to close"]
     }, {
         "id": 1504653331986,
         "spanish": "volver",
-        "english": ["return"]
+        "english": ["to return"]
     }, {
         "id": 1504653332057,
         "spanish": "contar",
-        "english": ["count"]
+        "english": ["to count"]
     }, {
         "id": 1504653332129,
         "spanish": "caber",
@@ -406,7 +406,7 @@
     }, {
         "id": 1504653332200,
         "spanish": "acabar",
-        "english": ["end"]
+        "english": ["to end"]
     }, {
         "id": 1504653332272,
         "spanish": "cualquier",
@@ -414,7 +414,7 @@
     }, {
         "id": 1504653332344,
         "spanish": "así",
-        "english": ["likeThis"]
+        "english": ["like this"]
     }, {
         "id": 1504653332415,
         "spanish": "después",
@@ -422,11 +422,11 @@
     }, {
         "id": 1504653332486,
         "spanish": "ya_no",
-        "english": ["notAnymore"]
+        "english": ["not anymore"]
     }, {
         "id": 1504653332559,
         "spanish": "tanto",
-        "english": ["soMuch"]
+        "english": ["so much"]
     }, {
         "id": 1504653332631,
         "spanish": "despacio",
@@ -510,7 +510,7 @@
     }, {
         "id": 1504653334049,
         "spanish": "batería",
-        "english": ["batteryDrums"]
+        "english": ["battery","drums"]
     }, {
         "id": 1504653334121,
         "spanish": "campana",
@@ -518,11 +518,11 @@
     }, {
         "id": 1504653334192,
         "spanish": "fuente",
-        "english": ["fountainSource"]
+        "english": ["fountain","source"]
     }, {
         "id": 1504653334262,
         "spanish": "pluma",
-        "english": ["featherPen"]
+        "english": ["feather","pen"]
     }, {
         "id": 1504653334335,
         "spanish": "revista",
@@ -546,7 +546,7 @@
     }, {
         "id": 1504655750951,
         "spanish": "metro",
-        "english": ["meterMetro"]
+        "english": ["meter","metro"]
     }, {
         "id": 1504655751022,
         "spanish": "par",
@@ -570,7 +570,7 @@
     }, {
         "id": 1504655751383,
         "spanish": "siquiera",
-        "english": ["evenifAtleast"]
+        "english": ["even if","at least"]
     }, {
         "id": 1504655751455,
         "spanish": "recién",
@@ -578,103 +578,103 @@
     }, {
         "id": 1504655751526,
         "spanish": "pedir",
-        "english": ["askFor"]
+        "english": ["to ask for"]
     }, {
         "id": 1504655751597,
         "spanish": "recibir",
-        "english": ["receive"]
+        "english": ["to receive"]
     }, {
         "id": 1504655751669,
         "spanish": "lograr",
-        "english": ["reachBeableto"]
+        "english": ["to reach","to be able to"]
     }, {
         "id": 1504655751741,
         "spanish": "caer",
-        "english": ["fall"]
+        "english": ["to fall"]
     }, {
         "id": 1504655751812,
         "spanish": "iniciar",
-        "english": ["begin"]
+        "english": ["to begin"]
     }, {
         "id": 1504655751883,
         "spanish": "perder",
-        "english": ["lose"]
+        "english": ["to lose"]
     }, {
         "id": 1504655751954,
         "spanish": "conseguir",
-        "english": ["get"]
+        "english": ["to get"]
     }, {
         "id": 1504655752026,
         "spanish": "contestar",
-        "english": ["answer"]
+        "english": ["to answer"]
     }, {
         "id": 1504655752098,
         "spanish": "ofrecer",
-        "english": ["offer"]
+        "english": ["to offer"]
     }, {
         "id": 1504655752169,
         "spanish": "alcanzar",
-        "english": ["reach"]
+        "english": ["to reach"]
     }, {
         "id": 1504655752240,
         "spanish": "negar",
-        "english": ["deny"]
+        "english": ["to deny"]
     }, {
         "id": 1504655752311,
         "spanish": "sacar",
-        "english": ["remove"]
+        "english": ["to remove"]
     }, {
         "id": 1504655752383,
         "spanish": "considerar",
-        "english": ["consider"]
+        "english": ["to consider"]
     }, {
         "id": 1504655752454,
         "spanish": "partir",
-        "english": ["cut"]
+        "english": ["to cut"]
     }, {
         "id": 1504655752525,
         "spanish": "partirse",
-        "english": ["leave"]
+        "english": ["to leave"]
     }, {
         "id": 1504655752597,
         "spanish": "alquilar",
-        "english": ["rent"]
+        "english": ["to rent"]
     }, {
         "id": 1504655752668,
         "spanish": "evitar",
-        "english": ["avoid"]
+        "english": ["to avoid"]
     }, {
         "id": 1504655752739,
         "spanish": "establecer",
-        "english": ["establish"]
+        "english": ["to establish"]
     }, {
         "id": 1504655752811,
         "spanish": "tratar",
-        "english": ["treat"]
+        "english": ["to treat"]
     }, {
         "id": 1504655752883,
         "spanish": "mantener",
-        "english": ["support"]
+        "english": ["to support"]
     }, {
         "id": 1504655752954,
         "spanish": "servir",
-        "english": ["serve"]
+        "english": ["to serve"]
     }, {
         "id": 1504655753027,
         "spanish": "reducir",
-        "english": ["reduce"]
+        "english": ["to reduce"]
     }, {
         "id": 1504655753100,
         "spanish": "superar",
-        "english": ["overcome"]
+        "english": ["to overcome"]
     }, {
         "id": 1504655753170,
         "spanish": "aumentar",
-        "english": ["increase"]
+        "english": ["to increase"]
     }, {
         "id": 1504655753241,
         "spanish": "elegir",
-        "english": ["choose"]
+        "english": ["to choose"]
     }, {
         "id": 1504655753312,
         "spanish": "disponible",
@@ -698,67 +698,67 @@
     }, {
         "id": 1504655753667,
         "spanish": "salvar",
-        "english": ["save"]
+        "english": ["to save"]
     }, {
         "id": 1504655753738,
         "spanish": "regresar",
-        "english": ["return"]
+        "english": ["to return"]
     }, {
         "id": 1504655753810,
         "spanish": "poseer",
-        "english": ["have"]
+        "english": ["to have"]
     }, {
         "id": 1504655753881,
         "spanish": "parar",
-        "english": ["stop"]
+        "english": ["to stop"]
     }, {
         "id": 1504655753953,
         "spanish": "llover",
-        "english": ["rain"]
+        "english": ["to rain"]
     }, {
         "id": 1504655754024,
         "spanish": "añadir",
-        "english": ["add"]
+        "english": ["to add"]
     }, {
         "id": 1504655754095,
         "spanish": "derrotar",
-        "english": ["defeat"]
+        "english": ["to defeat"]
     }, {
         "id": 1504655754167,
         "spanish": "gastar",
-        "english": ["spend"]
+        "english": ["to spend"]
     }, {
         "id": 1504655754239,
         "spanish": "rechazar",
-        "english": ["refuse"]
+        "english": ["to refuse"]
     }, {
         "id": 1504655754311,
         "spanish": "manejar",
-        "english": ["driveHandle"]
+        "english": ["to drive","to handle"]
     }, {
         "id": 1504655754382,
         "spanish": "dejar",
-        "english": ["leaveLet"]
+        "english": ["to leave","to let"]
     }, {
         "id": 1504655754453,
         "spanish": "ocuparse",
-        "english": ["dealWith"]
+        "english": ["to deal with"]
     }, {
         "id": 1504655754524,
         "spanish": "afectar",
-        "english": ["affect"]
+        "english": ["to affect"]
     }, {
         "id": 1504655754595,
         "spanish": "mejorar",
-        "english": ["improve"]
+        "english": ["to improve"]
     }, {
         "id": 1504655754665,
         "spanish": "volar",
-        "english": ["fly"]
+        "english": ["to fly"]
     }, {
         "id": 1504655754736,
         "spanish": "andar",
-        "english": ["walkWorking"]
+        "english": ["to walk","to work"]
     }, {
         "id": 1504655754808,
         "spanish": "pertenecer",
@@ -766,11 +766,11 @@
     }, {
         "id": 1504655754879,
         "spanish": "tirar",
-        "english": ["throw"]
+        "english": ["to throw"]
     }, {
         "id": 1504655754950,
         "spanish": "saltar",
-        "english": ["jump"]
+        "english": ["to jump"]
     }, {
         "id": 1504727420584,
         "spanish": "consciente",
@@ -842,11 +842,11 @@
     }, {
         "id": 1504727421950,
         "spanish": "sumar",
-        "english": ["add"]
+        "english": ["to add"]
     }, {
         "id": 1504727422046,
         "spanish": "grado",
-        "english": ["gradeDegree"]
+        "english": ["grade", "degree"]
     }, {
         "id": 1504727422165,
         "spanish": "respuesta",
@@ -858,7 +858,7 @@
     }, {
         "id": 1504798802696,
         "spanish": "discusión",
-        "english": ["debateArgument"]
+        "english": ["debate","argument"]
     }, {
         "id": 1504798802764,
         "spanish": "premio",
@@ -886,7 +886,7 @@
     }, {
         "id": 1504798803301,
         "spanish": "aspecto",
-        "english": ["lookAppearance"]
+        "english": ["look","appearance"]
     }, {
         "id": 1504798803396,
         "spanish": "asunto",
@@ -922,7 +922,7 @@
     }, {
         "id": 1504798804307,
         "spanish": "seguido",
-        "english": ["consecutiveFollowing"]
+        "english": ["consecutive","following"]
     }, {
         "id": 1504798804427,
         "spanish": "sentado",
@@ -930,7 +930,7 @@
     }, {
         "id": 1504798804538,
         "spanish": "detenido",
-        "english": ["detainedStopped"]
+        "english": ["detained","stopped"]
     }, {
         "id": 1504798804657,
         "spanish": "herido",
@@ -958,15 +958,15 @@
     }, {
         "id": 1504892663344,
         "spanish": "obligar",
-        "english": ["force"]
+        "english": ["to force"]
     }, {
         "id": 1504892663463,
         "spanish": "citar",
-        "english": ["cite"]
+        "english": ["to cite"]
     }, {
         "id": 1504892663574,
         "spanish": "prever",
-        "english": ["forsee"]
+        "english": ["to forsee"]
     }, {
         "id": 1504892663692,
         "spanish": "agradar",
@@ -974,15 +974,15 @@
     }, {
         "id": 1504892663812,
         "spanish": "enterarse",
-        "english": ["findout"]
+        "english": ["to find out"]
     }, {
         "id": 1504892663924,
         "spanish": "colocar",
-        "english": ["place"]
+        "english": ["to place"]
     }, {
         "id": 1504892664042,
         "spanish": "meter",
-        "english": ["put"]
+        "english": ["to put"]
     }, {
         "id": 1504892664139,
         "spanish": "ahí",
@@ -998,15 +998,15 @@
     }, {
         "id": 1504892664479,
         "spanish": "pasto",
-        "english": ["grassPasture"]
+        "english": ["grass", "pasture"]
     }, {
         "id": 1504969786736,
         "spanish": "dirigir",
-        "english": ["manageRun"]
+        "english": ["to manage","to run"]
     }, {
         "id": 1504969786778,
         "spanish": "partir",
-        "english": ["cutSplit"]
+        "english": ["to cut","to split"]
     }, {
         "id": 1504969786821,
         "spanish": "volcán",
