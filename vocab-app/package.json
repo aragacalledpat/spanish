@@ -11,6 +11,7 @@
   "scripts": {
     "build": "tsc",
     "count" : "node build/main.js count",
-    "deposit" : "node build/main.js deposit"
+    "deposit" : "node build/main.js deposit",
+    "export" : "node build/main.js export"
   }
 }
