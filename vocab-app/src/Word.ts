@@ -3,8 +3,8 @@ export class Word {
     public spanish:string;
     public english:string[];
 
-    constructor(spanish:string, english:string[]){
-        this.id = Date.now(),
+    constructor(id:number,spanish:string, english:string[]){
+        this.id = id;
         this.spanish = spanish;
         this.english = english;
     }

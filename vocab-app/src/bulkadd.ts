@@ -20,7 +20,7 @@ module.exports = function()
         var spanish = fields.shift();
     
         wordsToAdd.push(
-            new Word(spanish.trim(), 
+            new Word(Date.now(),spanish.trim(), 
             fields.map(x => x.trim()))
         );
     }
